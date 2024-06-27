@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\TriangleStars\TriangleStars\bin\Debug\net8.0\TriangleStars.exe
+C:\Users\ninag\RiderProjects\TriangleStars\TriangleStars\bin\Debug\net8.0\TriangleStars.deps.json
+C:\Users\ninag\RiderProjects\TriangleStars\TriangleStars\bin\Debug\net8.0\TriangleStars.runtimeconfig.json
+C:\Users\ninag\RiderProjects\TriangleStars\TriangleStars\bin\Debug\net8.0\TriangleStars.dll
+C:\Users\ninag\RiderProjects\TriangleStars\TriangleStars\bin\Debug\net8.0\TriangleStars.pdb
+C:\Users\ninag\RiderProjects\TriangleStars\TriangleStars\obj\Debug\net8.0\TriangleStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\TriangleStars\TriangleStars\obj\Debug\net8.0\TriangleStars.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\TriangleStars\TriangleStars\obj\Debug\net8.0\TriangleStars.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\TriangleStars\TriangleStars\obj\Debug\net8.0\TriangleStars.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\TriangleStars\TriangleStars\obj\Debug\net8.0\TriangleStars.dll
+C:\Users\ninag\RiderProjects\TriangleStars\TriangleStars\obj\Debug\net8.0\refint\TriangleStars.dll
+C:\Users\ninag\RiderProjects\TriangleStars\TriangleStars\obj\Debug\net8.0\TriangleStars.pdb
+C:\Users\ninag\RiderProjects\TriangleStars\TriangleStars\obj\Debug\net8.0\TriangleStars.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\TriangleStars\TriangleStars\obj\Debug\net8.0\ref\TriangleStars.dll
